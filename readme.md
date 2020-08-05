@@ -3,7 +3,7 @@
 ## I'm a self-taught Developer and Designer!
 - 🔭 I’m currently learning MERNstack Development!
 - 🌱 I’m a learner and I try to learn something new everyday 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
