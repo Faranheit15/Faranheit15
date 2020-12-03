@@ -9,9 +9,9 @@
 ### Connect with me:
 
 [<img align="left" alt="https://faran.xyz/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mail-dot-ru.svg" />][email]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mail-dot-ru.svg" />][email]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -42,6 +42,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [Android 101](https://medium.com/@faranheit/android-101-f30be123c2c5)
 - [Linux Year One](https://medium.com/@faranheit/linux-year-one-23ff9f1eb512)
+- [Postman - Installation on Linux](https://medium.com/@faranheit/postman-installation-on-linux-e293c399ed4d)
+- [Hacktoberfest 2020](https://medium.com/@faranheit/happy-hacktoberfest-2020-8dfe0ff05d85)
 <!-- BLOG-POST-LIST:END -->
 
 ---
