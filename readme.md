@@ -40,10 +40,10 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Android 101](https://medium.com/@faranheit/android-101-f30be123c2c5)
-- [Linux Year One](https://medium.com/@faranheit/linux-year-one-23ff9f1eb512)
-- [Postman - Installation on Linux](https://medium.com/@faranheit/postman-installation-on-linux-e293c399ed4d)
-- [Hacktoberfest 2020](https://medium.com/@faranheit/happy-hacktoberfest-2020-8dfe0ff05d85)
+- [Android 101](https://faranheit.medium.com/android-101-f30be123c2c5)
+- [Linux Year One](https://faranheit.medium.com/linux-year-one-23ff9f1eb512)
+- [Postman - Installation on Linux](https://faranheit.medium.com/postman-installation-on-linux-e293c399ed4d)
+- [Flutter - Installation on Linux](https://faranheit.medium.com/flutter-installation-on-linux-5868849abadf)
 <!-- BLOG-POST-LIST:END -->
 
 ---
