@@ -4,7 +4,7 @@
 - 🔭 I’m currently learning MERNstack Development!
 - 🌱 I’m a learner and I try to learn something new everyday 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Get a decent job and contribute more to Open Source projects
 
 ### Connect with me:
 
@@ -44,6 +44,7 @@
 - [Linux Year One](https://faranheit.medium.com/linux-year-one-23ff9f1eb512)
 - [Postman - Installation on Linux](https://faranheit.medium.com/postman-installation-on-linux-e293c399ed4d)
 - [Flutter - Installation on Linux](https://faranheit.medium.com/flutter-installation-on-linux-5868849abadf)
+- [TCS NQT 2020 - Interview Experience](https://faranheit.medium.com/tcs-nqt-2020-interview-experience-b8a05b32fb4d)
 <!-- BLOG-POST-LIST:END -->
 
 ---
