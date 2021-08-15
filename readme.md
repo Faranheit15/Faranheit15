@@ -51,7 +51,7 @@
 
 <img align="left" alt="Faranheit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Faranheit15&show_icons=true&hide_border=true" />
 
-[website]: https://faran.xyz/
+[website]: https://www.faranheit.ninja/
 [instagram]: https://www.instagram.com/faran.codes/
 [linkedin]: https://www.linkedin.com/in/faran-mohammad-7b938917a/
 [blogs]: https://faran.xyz/blog.html
