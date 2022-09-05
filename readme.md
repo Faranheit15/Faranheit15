@@ -1,28 +1,32 @@
-### Hi there, I'm Faran Mohammad - aka [Faranheit][website] 👋
+<img src="header.svg"></img>
 
-## I'm a self-taught Developer and Designer!
-- 🔭 I’m currently learning Python and side-by-side a little bit of ES6 and MERNstack Development!
-- 🌱 I’m a learner and I try to learn something new everyday 🤣
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Get a decent job and contribute more to Open Source projects
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4xnk76cb50rj2e2ciqgth1vkw&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=4xnk76cb50rj2e2ciqgth1vkw&redirect=true)
 
-### Connect with me:
+## 🎓 I'm a Frontend Engineer, currently employed at Accenture, India | ![](https://komarev.com/ghpvc/?username=Faranheit15&label=Profile%20views&color=0e75b6&style=flat)
+<img align="right" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="385" height="290" />
 
-[<img align="left" alt="https://faran.xyz/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/mail-dot-ru.svg" />][email]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- 🔭 I am currently working on AngularJS and Java
 
-<br />
+- 🚀 Right now, I am trying to gain a good command over Javascript and React.
 
-<br>
-<br>
+- 👯 I’m looking to collaborate with anyone on any project.
 
-![](https://komarev.com/ghpvc/?username=Faranheit15&color=grey)
+- 💬 Ask me about **React, Web Development, Linux, etc.**
 
-<br />
+- 📫 You can reach me at **ffaranm15@gmail.com**
 
-### Languages and Tools:
+- ⚡ Fun fact **I love travelling to new places**
+
+- 📝 [Resume](https://drive.google.com/file/d/17k7r1TQekr7_7A7a3PPiGMvE9BuaOABI/view?usp=sharing)
+
+## :email: Find me on:  
+<p align="left">
+<a href="https://www.linkedin.com/in/faran-mohammad-7b938917a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faran-mohammad" height="30" width="40" /></a>
+<a href="https://www.instagram.com/faran.codes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faran-mohammad" height="30" width="40" /></a>
+<a href="https://faranheit.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="faran-mohammad" height="30" width="40" /></a>
+</p>
+
+### 🧰 Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -35,8 +39,30 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-<br>
-<br>
+## :trophy: My Stats:
+<p align="center">
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=Faranheit15&theme=dracula&hide_border=true">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Faranheit15&theme=dracula&hide_border=true" alt="Faranheit15" />
+  </a>
+  
+  <a href="https://github.com/Faranheit15">
+    <img src="https://github-profile-trophy.vercel.app/?username=Faranheit15&column=7&theme=dracula&no-bg=true&no-frame=true" alt="Faranheit15" />
+  </a>
+</p>
+
+<div align="center">
+<a href="https://github.com/Faranheit15">
+  <img  align="center" src="https://github-readme-stats.vercel.app/api?username=Faranheit15&count_private=true&show_icons=true&locale=en&theme=dracula&hide_border=true" />
+</a>
+
+<a href="https://github.com/Faranheit15">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faranheit15&count_private=true&show_icons=true&hide=perl&locale=en&theme=dracula&hide_border=true&layout=compact&langs_count=8" />
+</a>
+
+<a href="https://github.com/Faranheit15">
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Faranheit15&theme=dracula&hide_border=true&custom_title=Contribution%20Graph&bg_color=000000&color=fe6e96&line=fe6e96&point=ffffff" alt="graph" />
+</a>
+</div>
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -45,14 +71,6 @@
 - [Postman - Installation on Linux](https://faranheit.medium.com/postman-installation-on-linux-e293c399ed4d)
 - [Flutter - Installation on Linux](https://faranheit.medium.com/flutter-installation-on-linux-5868849abadf)
 - [TCS NQT 2020 - Interview Experience](https://faranheit.medium.com/tcs-nqt-2020-interview-experience-b8a05b32fb4d)
+- [The Rain - Short Story](https://faranheit.medium.com/the-rain-b356414a16ee)
+- [Custom ROM on an MiPhone](https://faranheit.medium.com/custom-rom-on-an-miphone-3a90cb16de5a)
 <!-- BLOG-POST-LIST:END -->
-
----
-
-<img align="left" alt="Faranheit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Faranheit15&show_icons=true&hide_border=true" />
-
-[website]: https://www.faranheit.ninja/
-[instagram]: https://www.instagram.com/faran.codes/
-[linkedin]: https://www.linkedin.com/in/faran-mohammad-7b938917a/
-[blogs]: https://faran.xyz/blog.html
-[email]: mailto:ffaranm15@gmail.com
