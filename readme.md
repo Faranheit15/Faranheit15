@@ -1,7 +1,6 @@
 <img src="header.svg"></img>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4xnk76cb50rj2e2ciqgth1vkw&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=4xnk76cb50rj2e2ciqgth1vkw&redirect=true)
-<img align="right" alt="GIF" src="https://media0.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47qlhditwwa0aqb61krnr1ebufkflqp5r7h4a1d80x&rid=giphy.gif&ct=g" width="385" height="290" />
 
 ## 🎓 I'm a Frontend Engineer, currently employed at Accenture, India | ![](https://komarev.com/ghpvc/?username=Faranheit15&label=Profile%20views&color=0e75b6&style=flat)
 <img align="right" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="385" height="290" />
