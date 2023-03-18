@@ -5,9 +5,9 @@
 ## 🎓 I'm a Frontend Engineer, currently employed at Accenture, India | ![](https://komarev.com/ghpvc/?username=Faranheit15&label=Profile%20views&color=0e75b6&style=flat)
 <img align="right" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="385" height="290" />
 
-- 🔭 I am currently working on AngularJS and Java
+- 🔭 I am currently working on ReactJS and Data Engineering.
 
-- 🚀 Right now, I am trying to gain a good command over Javascript and React.
+- 🚀 Right now, I am trying to gain a good command over React-Native.
 
 - 👯 I’m looking to collaborate with anyone on any project.
 
