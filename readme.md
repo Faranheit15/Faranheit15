@@ -1,6 +1,6 @@
 <img src="header.svg"></img>
 
-## 🎓 I'm a Frontend Engineer, currently employed at Accenture, India | ![](https://komarev.com/ghpvc/?username=Faranheit15&label=Profile%20views&color=0e75b6&style=flat)
+## 🎓 I'm a Frontend Engineer, currently employed at UsefulBi Corporation | ![](https://komarev.com/ghpvc/?username=Faranheit15&label=Profile%20views&color=0e75b6&style=flat)
 <img align="right" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="385" height="290" />
 
 - 🔭 I am currently working on ReactJS and Data Engineering.
