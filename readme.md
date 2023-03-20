@@ -48,6 +48,9 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Faranheit15&theme=vision-friendly-dark)](https://git.io/streak-stats)
 
+<br/>
+<br/>
+
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Android 101](https://faranheit.medium.com/android-101-f30be123c2c5)
