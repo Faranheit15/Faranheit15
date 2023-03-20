@@ -21,48 +21,32 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/faran-mohammad-7b938917a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faran-mohammad" height="30" width="40" /></a>
 <a href="https://www.instagram.com/faran.codes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faran-mohammad" height="30" width="40" /></a>
+<a href="https://twitter.com/wheresmybiryani" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="slow_developer" height="30" width="40" /></a>
 <a href="https://faranheit.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="faran-mohammad" height="30" width="40" /></a>
 </p>
 
 ## 🧰 Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Flutter" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png" />
-<img align="left" alt="Inkscape" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/inkscape-569205.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<br>
-
-## :trophy: My Stats:
-<p align="center">
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=Faranheit15&theme=dracula&hide_border=true">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Faranheit15&theme=dracula&hide_border=true" alt="Faranheit15" />
-  </a>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![ReactJS](https://img.shields.io/badge/React.js-35495E?style=for-the-badge&logo=react&logoColor=4FC08D)
+![React-Native](https://img.shields.io/badge/ReactNative-35495E?style=for-the-badge&logo=react&logoColor=4FC08D)
+![NPM](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)\
   
-  <a href="https://github.com/Faranheit15">
-    <img src="https://github-profile-trophy.vercel.app/?username=Faranheit15&column=7&theme=dracula&no-bg=true&no-frame=true" alt="Faranheit15" />
-  </a>
-</p>
+  ---
 
-<div align="center">
-<a href="https://github.com/Faranheit15">
-  <img  align="center" src="https://github-readme-stats.vercel.app/api?username=Faranheit15&count_private=true&show_icons=true&locale=en&theme=dracula&hide_border=true" />
-</a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Faranheit15&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Faranheit15" /></p>
 
-<a href="https://github.com/Faranheit15">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faranheit15&count_private=true&show_icons=true&hide=perl&locale=en&theme=dracula&hide_border=true&layout=compact&langs_count=8" />
-</a>
+<br/>
+<br/>
 
-<a href="https://github.com/Faranheit15">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Faranheit15&theme=dracula&hide_border=true&custom_title=Contribution%20Graph&bg_color=000000&color=fe6e96&line=fe6e96&point=ffffff" alt="graph" />
-</a>
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Faranheit15&theme=vision-friendly-dark)](https://git.io/streak-stats)
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -70,7 +54,7 @@
 - [Linux Year One](https://faranheit.medium.com/linux-year-one-23ff9f1eb512)
 - [Postman - Installation on Linux](https://faranheit.medium.com/postman-installation-on-linux-e293c399ed4d)
 - [Flutter - Installation on Linux](https://faranheit.medium.com/flutter-installation-on-linux-5868849abadf)
-- [TCS NQT 2020 - Interview Experience](https://faranheit.medium.com/tcs-nqt-2020-interview-experience-b8a05b32fb4d)
+- [TCS NQT 2020 - Interview Experience](https://www.geeksforgeeks.org/tcs-nqt-interview-experience-2020-21/)
 - [The Rain - Short Story](https://faranheit.medium.com/the-rain-b356414a16ee)
 - [Custom ROM on an MiPhone](https://faranheit.medium.com/custom-rom-on-an-miphone-3a90cb16de5a)
 <!-- BLOG-POST-LIST:END -->
